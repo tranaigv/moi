@@ -1,0 +1,6 @@
+{
+  "name": "Luyện thi ĐGNL Chuyên biệt",
+  "description": "Nền tảng luyện thi Đánh giá Năng lực chuyên biệt THPT với quy trình phản hồi thông minh cho học sinh và dashboard quản lý tiến độ cho giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
